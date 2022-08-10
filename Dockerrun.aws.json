@@ -1,7 +1,7 @@
 {
     "AWSEBDockerrunVersion": "1",
     "Image": {
-      "Name": "registry.hub.docker.com/haneen0/run-a-way-game:letest"
+      "Name": "registry.hub.docker.com/haneen0/run-a-way-game:latest"
     },
     "Ports": [
       {
