@@ -32,7 +32,7 @@ pipeline {
 		stage('Push') {
 
 			steps {
-				sh 'docker push haneen0/run-a-way-game:letest'
+				sh 'docker push haneen0/run-a-way-game:latest'
 			}
 		}
 
